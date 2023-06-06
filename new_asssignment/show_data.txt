@@ -1,0 +1,13 @@
+id: 1371
+url: https://www.tvmaze.com/shows/1371/westworld
+name: Westworld
+season: 4
+number: 8
+type: Scripted
+airdate: 2022-08-14
+airtime: 21:00
+runtime: 60
+average_rating: 8.2
+summary: Westworld is a dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.
+medium_image: https://static.tvmaze.com/uploads/images/medium_portrait/445/1113927.jpg
+original_image: https://static.tvmaze.com/uploads/images/original_untouched/445/1113927.jpg
